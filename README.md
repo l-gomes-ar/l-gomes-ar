@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🧙‍♂
 
-Hello there! I'm on a quest to become a software sorcerer, currently pursuing a Bachelor of Applied Science degree in Software Development from BYU-Idaho 🎓. Along the way, I proudly graduated from HarvardX's CS50 and am currently juggling Web Programming with Python and JavaScript there. 🤹‍♂
+Hello there! I'm on a quest to become a software sorcerer, currently pursuing a Bachelor of Science degree in Software Development from BYU-Idaho 🎓. Along the way, I proudly graduated from HarvardX's CS50 and am currently juggling Web Programming with Python and JavaScript there. 🤹‍♂
 
 But I'm not just about coding spells - I'm a multitasking maestro 🎩, wielding skills in admin wizardry, customer service charm, and logistics magic. 🪄
 
